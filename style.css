@@ -1,0 +1,22 @@
+body{
+    background:rgb(138, 118, 138)
+}
+
+.blue_heading{
+    color:blueviolet
+}
+
+
+#test{
+    color:green
+}
+
+h1{
+    color:blue
+}
+#heading{
+    font-size:3em;
+}
+#hungry{
+    font-size:1em
+}
